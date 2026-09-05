@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "195568e3-7695-44ff-ace5-7affb6b8f8a4",
+  "path": "wizard",
+  "path_key": "wizard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills.git",
+    "subpath": "skills\\engineering\\wizard",
+    "branch": null
+  }
+}

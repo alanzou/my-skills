@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a78f57e6-de68-451e-a338-064b4dfbd52c",
+  "path": "writing-beats",
+  "path_key": "writing-beats",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills.git",
+    "subpath": "skills\\in-progress\\writing-beats",
+    "branch": null
+  }
+}
